@@ -2,7 +2,7 @@
 
 # Hacks in the Terminal
 
-Problem solving with `AWK` …
+Problem solving with `AWK` … More stuff is still hosted here: [Wordpress](http://awkologist.com)
 
 ### fasta2tbl
 
